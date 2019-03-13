@@ -1,0 +1,23 @@
+{
+  "name": "customer-chat",
+  "version": "1.0.0",
+  "description": "Customer chat application build with React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yangani/customer-chat.git"
+  },
+  "keywords": [
+    "React",
+    "chat"
+  ],
+  "author": "Festus K. Yangani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yangani/customer-chat/issues"
+  },
+  "homepage": "https://github.com/Yangani/customer-chat#readme"
+}
